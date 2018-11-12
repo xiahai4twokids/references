@@ -1,0 +1,662 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Akbari2017,
+  Title                    = {Spatially Decoupling of CP Antennas Based on FSS for 30-GHz MIMO Systems},
+  Author                   = {Akbari, M. and Ghalyon, H. A. and Farahani, M. and Sebak, A. R. and Denidni, T. A.},
+  Journal                  = {Ieee Access},
+  Year                     = {2017},
+  Pages                    = {6527--6537},
+  Volume                   = {5},
+
+  Abstract                 = {In this paper, an effective approach for mitigating the near-field coupling between four-port circularly polarized (CP) antennas in a 30-GHz multiple-input, multiple-output ( MIMO) system is suggested and investigated. This is obtained by incorporating a two-layer transmission-type frequency selective surface (FSS) superstrate based on planar crossed-dipole metal strips. This paper presents a comparison between the mutual coupling when the patches are radiating in free space and in the presence of the FSS layers. The simulated results, when the FSS layers are applied, show an average of 6-12-dB improvement in the isolation between four adjacent CP-MIMO antennas. In addition, an accurate study is carried out on the insignificant reflections produced by the FSS layers to redirect those and also prevent any interference. The proposed 2 x 2 CP-MIMO antenna along with the superstrate is implemented and tested to validate the simulation results. Experimental results of the coupling and reflection coefficients and axial ratio show an acceptable agreement with the corresponding simulated ones.},
+  Af                       = {Akbari, MohammadEOLEOLGhalyon, Hamdan AboEOLEOLFarahani, MohammadmahdiEOLEOLSebak, Abdel-RazikEOLEOLDenidni, Tayeb A.},
+  Doi                      = {10.1109/ACCESS.2017.2693342},
+  Owner                    = {913},
+  Sn                       = {2169-3536},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000401431300125}
+}
+
+@Article{Andersen1976,
+  Title                    = {Decoupling and descattering networks for antennas},
+  Author                   = {J. Andersen and H. Rasmussen},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {1976},
+
+  Month                    = {November},
+  Number                   = {6},
+  Pages                    = {841-846},
+  Volume                   = {24},
+
+  Abstract                 = {The possibilities of connecting a lossless network between input ports and antenna ports such that there is no coupling and scattering between the antennas are discussed. A necessary condition for complete decoupling and descattering is power orthogonality between the patterns of the individual antennas. Numerical and experimental results are presented for monopole antennas.},
+  Doi                      = {10.1109/TAP.1976.1141437},
+  File                     = {Andersen1976.pdf:Andersen1976.pdf:PDF},
+  ISSN                     = {0018-926X},
+  Keywords                 = {Antenna array mutual coupling;Antenna arrays;Electromagnetic (EM) scattering;Monopole arrays;Pattern matching;Antennas and propagation;Mutual coupling;Optical reflection;Frequency;Linear antenna arrays;Aperture antennas;Optical coupling;Load flow;Pattern analysis},
+  Owner                    = {913},
+  Ranking                  = {rank4},
+  Timestamp                = {2018.10.23}
+}
+
+@Article{Arand2017,
+  Title                    = {Design of a Phased Array in Triangular Grid With an Efficient Matching Network and Reduced Mutual Coupling for Wide-Angle Scanning},
+  Author                   = {Arand, B. A. and Bazrkar, A. and Zahedi, A.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2017},
+
+  Month                    = jun,
+  Number                   = {6},
+  Pages                    = {2983--2991},
+  Volume                   = {65},
+
+  Abstract                 = {In this paper, a wide-scan angle planar patch phased array is proposed. The proposed array is composed of wideband probe-fed microstrip patches placed 0.087 lambda(h) (lambda(h) is the wavelength of highest frequency) above individual ground planes and interlaced with parasitic decoupling walls. In order to cancel the feed probe inductance, the array elements comprise additional degrees of freedom to introduce controllable capacitance. Concurrently, individual ground planes and parasitic decoupling walls are proposed as an effective structure to considerably increase the E-plane scanning angle of the phased array by reducing the magnitude of near-field mutual coupling. A 544-element phased array prototype of the proposed element was designed, manufactured, and validated experimentally. The experimental results agree well with the numerical simulation ones and indicate effectiveness of the proposed design for mutual coupling reduction and wide-angle scanning. Because of the modifications, the measured mutual coupling between adjacent elements is reduced to lower than -32 dB at the center frequency. The proposed phased array has almost a constant active input impedance (active VSWR less than 2 over 20% bandwidth) up to scan angle of 65 degrees in E-plane and 60 degrees in H-plane, with a realized gain reduction of about 3.5 dB.},
+  Af                       = {Arand, Bijan AbbasiEOLEOLBazrkar, AmirEOLEOLZahedi, Amir},
+  Doi                      = {10.1109/TAP.2017.2690903},
+  Ei                       = {1558-2221},
+  Owner                    = {913},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000402731400024}
+}
+
+@Article{Chen2008,
+  Title                    = {A Decoupling Technique for Increasing the Port Isolation Between Two Strongly Coupled Antennas},
+  Author                   = {Chen, Shin-Chang and Wang, Yu-Shin and Chun, Shyh-Jong},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2008},
+
+  Month                    = dec,
+  Number                   = {12},
+  Pages                    = {3650--3658},
+  Volume                   = {56},
+
+  Abstract                 = {A compact decoupling network for enhancing the port isolation between two closely spaced antennas is proposed in this paper. In the network, we first connect two transmission lines (TLs) individually to the input ports of two strongly coupled antennas. The length of the TLs is designed so that the trans-admittance between ports changes from a complex one at the antenna inputs to a pure imaginary one. A shunt reactive component is then attached in between the TL ends to cancel the resultant imaginary trans-admittance. Finally, a simple lumped-element circuit is added to each port for input impedance matching. The even-odd mode analysis is adopted to investigate the currents excited on the antennas for predicting the radiation pattern of the two-element antenna array. Two examples of printed antennas at 2.45 GHz are tackled by using the proposed decoupling structure. The measurement results agree quite well with the simulation ones. High antenna isolation and good input return loss are simultaneously achieved in both cases, which demonstrates the feasibility of the structure. The decoupled antenna array in each example radiates, as prediction, toward different but complementary directions when the input power is fed in turn to the two input ports. The array efficiency is estimated better than 75% in each example. This pattern diversity effect is helpful for reducing the channel correlation in a multiple-input multiple-output (MIMO) communication system.},
+  Doi                      = {10.1109/TAP.2008.2005469},
+  File                     = {Chen2008.pdf:Chen2008.pdf:PDF},
+  Owner                    = {913},
+  Ranking                  = {rank4},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000263032000006}
+}
+
+@Article{Chiu2007,
+  Title                    = {Reduction of mutual coupling between closely-packed antenna elements},
+  Author                   = {Chiu, Chi-Yuk and Cheng, Chi-Ho and Murch, Ross D. and Rowell, Corbett R.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2007},
+
+  Month                    = jun,
+  Number                   = {6},
+  Pages                    = {1732--1738},
+  Volume                   = {55},
+
+  Abstract                 = {A simple ground plane structure that can reduce mutual coupling between closely-packed antenna elements is proposed and studied. The structure consists of a slitted pattern, without via's, etched onto a single ground plane and it is therefore low cost and straightforward to fabricate. It is found that isolations of more than -20 dB can be achieved between two parallel individual planar inverted-F antennas (PIFAs) sharing a common ground plane, with inter-antenna spacing (center to center) of 0.116 lambda(2)(o) and ground plane size 0.331 lambda(2)(o). At 2.31 GHz it is demonstrated that this translates into an edge to edge separation between antennas of just 10 mm. Similarly the structure can be applied to reduce mutual coupling between three or four radiating elements. In addition the mutual coupling between half wavelength patches and monopoles can also be reduced with the aid of the proposed ground plane structure. Results of parametric studies are also given in this paper. Both simulation and measurement results are used to confirm the suppression of mutual coupling between closely-packed antenna elements with our slitted ground plane.},
+  Doi                      = {10.1109/TAP.2007.898618},
+  File                     = {Chiu2007.pdf:Chiu2007.pdf:PDF},
+  Oi                       = {Murch, Ross/0000-0002-2527-7693},
+  Owner                    = {913},
+  Pn                       = {2},
+  Ranking                  = {rank4},
+  Ri                       = {Murch, Ross/G-4485-2016},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000247223700007}
+}
+
+@Article{Gu2017,
+  Title                    = {Scanning Enhanced Low-Profile Broadband Phased Array With Radiator-Sharing Approach and Defected Ground Structures},
+  Author                   = {Gu, L. and Zhao, Y. W. and Cai, Q. M. and Zhang, Z. P. and Xu, B. H. and Nie, Z. P.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2017},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {5846--5854},
+  Volume                   = {65},
+
+  Abstract                 = {In this paper, a scanning enhanced low-profile broadband phased array is presented. This array is based on the radiator-sharing approach and the defected ground structures (DGSs). In this phased array, the radiator-sharing approach has been implemented by using metasurface antenna, and the scanning range has been remarkably enhanced by reducing element spacing. An attractive behavior in broadband impedance matching has still been obtained, in spite that closely spaced feedings are adopted. Moreover, the scanning performance is considerably improved by applying meanderline slots cut from the ground plane, forming DGS. In order to validate this proposed design, a nine-element linear phased array with DGSs has been fabricated and measured. Based on the uniform magnitude and the progressive phase, the capability of wide-angle scanning can be achieved over the measured bandwidth of 23.1% (4.6-5.8 GHz). At the center frequency of 5.2 GHz, this array scans up to 50 degrees and the realized gain varies from 14.76 to 11.85 dBi.},
+  Af                       = {Gu, LiEOLEOLZhao, Yan-WenEOLEOLCai, Qiang-MingEOLEOLZhang, Zhi-PengEOLEOLXu, Bi-HuiEOLEOLNie, Zai-Ping},
+  Doi                      = {10.1109/TAP.2017.2754321},
+  Ei                       = {1558-2221},
+  Owner                    = {913},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000414047400020}
+}
+
+@Article{Jensen2004,
+  Title                    = {A review of antennas and propagation for MIMO wireless communications},
+  Author                   = {Jensen, M. A. and Wallace, J. W.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2004},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {2810--2824},
+  Volume                   = {52},
+
+  Abstract                 = {Multiple-input-multiple-output (MIMO) wireless systems use multiple antenna elements at transmit and receive to offer improved capacity over single antenna topologies in multipath channels. In such systems, the antenna properties as well as the multipath channel characteristics play a key role in determining communication performance. This paper reviews recent research findings concerning antennas and propagation in MIMO systems. Issues considered include channel capacity computation, channel measurement and modeling approaches, and the impact of antenna element properties and array configuration on system performance. Throughout the discussion, outstanding research questions in these areas are highlighted.},
+  Doi                      = {10.1109/TAP2004.835272},
+  Ei                       = {1558-2221},
+  File                     = {Jensen2004.pdf:Jensen2004.pdf:PDF},
+  Owner                    = {913},
+  Ranking                  = {rank3},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000225054200001}
+}
+
+@Article{Khayat2000,
+  Title                    = {Mutual coupling between reduced surface-wave microstrip antennas},
+  Author                   = {Khayat, M. A. and Williams, J. T. and Jackson, D. R. and Long, S. A.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2000},
+
+  Month                    = oct,
+  Number                   = {10},
+  Pages                    = {1581--1593},
+  Volume                   = {48},
+
+  Abstract                 = {An investigation of the mutual coupling between reduced surface-wave microstrip antennas is presented and compared with that for conventional microstrip antennas. Numerical results are presented from a theoretical analysis of the mutual coupling along with confirming experimental results. It is shown that for electrically thin substrates, the space-wave coupling, not the surface-wave coupling, is predominant for typical element spacing, for both the conventional and reduced surface-wave antennas. In addition, the mutual coupling behavior is examined using an asymptotic analysis, which demonstrates how the coupling falls off much faster with patch separation for reduced surface wave antennas compared to conventional microstrip patch antennas.},
+  Doi                      = {10.1109/8.899675},
+  File                     = {Khayat2000.pdf:Khayat2000.pdf:PDF},
+  Oi                       = {Jackson, David/0000-0003-4913-5902},
+  Owner                    = {913},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000166824300011}
+}
+
+@Article{Kiani-Kharaji2018,
+  Title                    = {Wide scan phased array patch antenna with mutual coupling reduction},
+  Author                   = {Kiani-Kharaji, M. and Hassani, H. R. and Mohammad-Ali-Nezhad, S.},
+  Journal                  = {Iet Microwaves Antennas \& Propagation},
+  Year                     = {2018},
+
+  Month                    = oct,
+  Number                   = {12},
+  Pages                    = {1932--1938},
+  Volume                   = {12},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {A simple technique to reduce the mutual coupling between patch antenna arrays is proposed. Mutual coupling phenomena in patch antenna array are investigated and according to the coupling characteristics, a simple rectangular slot(s) placed in between the patch elements is proposed. An equivalent circuit of the proposed structure is obtained through the reciprocity method. In the proposed technique, the series equivalent circuit of the slot is used to reduce the mutual coupling level without changes to the back lobe as well as cross-polarisation levels compared to conventional arrays. The mutual coupling reduction is >20dB when compared with the conventional array. Applied to a phased array antenna, the reduction in the mutual coupling results in a wider scan range, up to 75 degrees. A parametric study is carried out for different parameters of the slot that affect the mutual coupling and the scan range. A prototype of the antenna array is fabricated and the measured results are compared to the simulation.},
+  Af                       = {Kiani-Kharaji, MojtabaEOLEOLHassani, Hamid RezaEOLEOLMohammad-Ali-Nezhad, Sajad},
+  Doi                      = {10.1049/iet-map.2018.0155},
+  Ei                       = {1751-8733},
+  File                     = {Kiani-Kharaji2018.pdf:Kiani-Kharaji2018.pdf:PDF},
+  Owner                    = {913},
+  Sn                       = {1751-8725},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000444240900011}
+}
+
+@Article{Lee2018,
+  Title                    = {Wide Angle Scanning Circular Polarized Meta-Structured Antenna Array},
+  Author                   = {Lee, C. H. and Lee, J. H.},
+  Journal                  = {Ieice Transactions On Communications},
+  Year                     = {2018},
+
+  Month                    = sep,
+  Number                   = {9},
+  Pages                    = {2017--2023},
+  Volume                   = {E101B},
+
+  Abstract                 = {This paper presents a meta-structured circular polarized array antenna with wide scan angle. In order to widen the scanning angle of array antennas, this paper investigates unit antenna beamwidth and the coupling effects between array elements, both of which directly affect the steering performance. As a result, the optimal array distance, the mode configuration, and the antenna structure are elucidated. By using the features of the miniaturized mu-zero resonance (MZR) antenna, it is possible to design the antenna at optimum array distance for wide beamwidth. In addition, by modifying via position and gap configuration of the antenna, it is possible to optimize the mode configuration for optimal isolation. Finally, the 3 dB steerable angle of 66 degrees is successfully demonstrated using a 1x8 MZR CP antenna array without any additional decoupling structure. The measured beam patterns at a scan angle of 0 degrees , 22 degrees , 44 degrees, and 66 degrees agree well with the simulated beam patterns.},
+  Af                       = {Lee, Chang-HyunEOLEOLLee, Jeong-Hae},
+  Doi                      = {10.1587/transcom.2017EBP3443},
+  Ei                       = {1745-1345},
+  Owner                    = {913},
+  Sn                       = {0916-8516},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000444151600008}
+}
+
+@Article{Liberal2018,
+  Title                    = {Quantum antenna arrays: The role of quantum interference on direction-dependent photon statistics},
+  Author                   = {Liberal, I. and Ederra, I. and Ziolkowski, R. W.},
+  Journal                  = {Physical Review A},
+  Year                     = {2018},
+
+  Month                    = may,
+  Number                   = {5},
+  Pages                    = {053847},
+  Volume                   = {97},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {We investigate the role of quantum interference phenomena on the characteristics of the fields radiated by an array of quantum emitters. In analogy to, but distinct from, classical outcomes, we demonstrate that the array geometry empowers control over direction-dependent photon statistics of arbitrary order. Our formulation enables the recognition of configurations providing spatial correlations with no classical counterpart. For example, we identify a system in which the angular distribution of the average number of photons is independent of the number and position of the emitters, while its higher-order photon statistics exhibit a directional behavior. These results extend our understanding of the fields generated by ensembles of quantum emitters, with potential applications to nonclassical light sources.},
+  Af                       = {Liberal, InigoEOLEOLEderra, InigoEOLEOLZiolkowski, Richard W.},
+  Doi                      = {10.1103/PhysRevA.97.053847},
+  Ei                       = {2469-9934},
+  File                     = {Liberal2018.pdf:Liberal2018.pdf:PDF},
+  Owner                    = {913},
+  Sn                       = {2469-9926},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000433905200012}
+}
+
+@Article{Malyuskin2017,
+  Title                    = {Antenna terminals based on ultra-compact retrodirective antenna arrays},
+  Author                   = {Malyuskin, O. and Fusco, V.},
+  Journal                  = {Iet Microwaves Antennas \& Propagation},
+  Year                     = {2017},
+
+  Month                    = dec,
+  Number                   = {15},
+  Pages                    = {2185--2193},
+  Volume                   = {11},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {A novel physical effect of angular super-resolution based on the direction-of-arrival information sampling using highly oscillatory evanescent harmonics in dense antenna array environment is demonstrated theoretically and experimentally. This phenomenon enables realisation of novel, ultra-compact antenna terminals (ATs) with superdirective radiation patterns and spatial auto-focusing characteristics for any direction of arrival of the excitation waveform. The use of these ATs should enhance the signal-to-noise ratio at the receiver, increase overall energy efficiency of the wireless communication or power transmission systems and lead to substantially lower interference and EM pollution across the wireless network area. Special attention is given to the antenna array operating in the presence of a flat metal ground plane or a ground plane with EM band-gap structure. Near-field scattering phenomena arising as a result of the antenna array coupling to the ground planes of both types and their effects on the far-field radiation patterns are analysed in detail. The results of the study should be important for the development of the electrically compact ATs to be employed in the energy-efficient wireless communication systems including the Internet-of-Things, wireless sensor networks and wireless powering systems.},
+  Af                       = {Malyuskin, OleksandrEOLEOLFusco, Vincent},
+  Doi                      = {10.1049/iet-map.2016.0769},
+  Ei                       = {1751-8733},
+  Owner                    = {913},
+  Sn                       = {1751-8725},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000418718700013}
+}
+
+@Article{Mazaheri2018,
+  Title                    = {A broadband array antenna using epsilon-near-zero metamaterials for MIMO applications},
+  Author                   = {Mazaheri, M. H. and Jafargholi, A.},
+  Journal                  = {International Journal of Rf and Microwave Computer-aided Engineering},
+  Year                     = {2018},
+
+  Month                    = sep,
+  Number                   = {7},
+  Pages                    = {e21475},
+  Volume                   = {28},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {In this article, the capability of epsilon-near-zero (ENZ) metamaterial (MTM) to reduce mutual coupling between densely packed array elements is examined. The results show a reduction in mutual coupling between antenna elements and provide a possible way to reduce the element separation. To verify and confirm the simulation results, a prototype of the proposed ENZ structure incorporating an array of closely implemented patch antennas, 0.12(L), are fabricated and tested. The array antenna has an overall dimension of approximately 2.66(L) x 1.75(L) x 0.05(L) while achieving an average gain and efficiency of 7 dB and 85%, respectively. Measurement shows that the mutual coupling is mostly better than -20dB across a broad bandwidth of >2.6:1 (10.5-27.7GHz).},
+  Af                       = {Mazaheri, Mohammad. H.EOLEOLJafargholi, Amir},
+  Doi                      = {10.1002/mmce.21475},
+  Ei                       = {1099-047X},
+  File                     = {Mazaheri2018.pdf:Mazaheri2018.pdf:PDF},
+  Oi                       = {Jafargholi, Amir/0000-0002-8676-4356},
+  Owner                    = {913},
+  Ranking                  = {rank3},
+  Si                       = {SI},
+  Sn                       = {1096-4290},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000444076100014}
+}
+
+@Article{Naeem2016,
+  Title                    = {Lossy Resonators as Decoupling Elements in Densely Packed Arrays},
+  Author                   = {Naeem, U. and Shafique, M. F. and Bila, S.},
+  Journal                  = {2016 Ieee Mtt-s International Microwave Symposium (ims)},
+  Year                     = {2016},
+  Pages                    = {IEEE},
+
+  Abstract                 = {This article reports on a simple yet efficient technique of magnetic coupling suppression among densely packed E coupled patch antenna arrays. As compared to the traditional techniques to reduce mutual coupling such as inserting a metamaterial structure between the two adjacent elements, the presented technique can achieve a lesser physical gap between the two radiating elements. Two element antenna array is used in this work where edge-to-edge separation of the antenna elements are kept lambda(o)/3 and isolation of 45 dB has been achieved at 6 GHz.},
+  Af                       = {Naeem, UmairEOLEOLShafique, Muhammad FarhanEOLEOLBila, Stephane},
+  Bn                       = {978-1-5090-0698-4},
+  Cl                       = {San Francisco, CA},
+  Ct                       = {IEEE MTT-S International Microwave Symposium (IMS)},
+  Cy                       = {MAY 22-27, 2016},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Se                       = {IEEE MTT-S International Microwave Symposium},
+  Sn                       = {0149-645X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000390313200197}
+}
+
+@Article{Nikolic2005,
+  Title                    = {Microstrip antennas with suppressed radiation in horizontal directions and reduced coupling},
+  Author                   = {Nikolic, M. M. and Djordjevic, A. R. and Nehorai, A.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2005},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {3469--3476},
+  Volume                   = {53},
+
+  Abstract                 = {Microstrip (patch) antennas usually strongly radiate in directions along the ground plane. This effect causes unwanted radiation patterns and increased coupling among array elements. Dielectric polarization currents are identified as physical sources of this radiation. A general technique is proposed to compensate these currents and suppress radiation in horizontal directions.},
+  Doi                      = {10.1109/TAP.2005.858847},
+  File                     = {Nikolic2005.pdf:Nikolic2005.pdf:PDF},
+  Owner                    = {913},
+  Ranking                  = {rank3},
+  Ri                       = {Nehorai, Arye/G-1661-2011},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000233350100007}
+}
+
+@Article{Ouyang2017,
+  Title                    = {A Cavity-Backed Slot ESPAR E-Plane Array},
+  Author                   = {Ouyang, W. and Gong, X.},
+  Journal                  = {2017 Ieee 18th Wireless and Microwave Technology Conference (wamicon)},
+  Year                     = {2017},
+  Pages                    = {IEEE},
+
+  Abstract                 = {A three-element cavity-backed slot ESPAR E-plane array is proposed in this paper. As with conventional ESPAR antennas, the parasitic cavities are fed by mutually coupling to the center cavity and each parasitic cavity is terminated with a tunable capacitor that provides the necessary phase shift for the desired beam scanning performance. Due to the difficulty of achieving E-plane coupling while simultaneously controlling the coupling level and phase, there have been few reported E-plane ESPAR antennas in the literature. In this paper, it is shown that these challenges can be overcome by exploiting the cavity geometry to achieve the desired coupling values; the required phase shift is achieved by changing the load impedance of the parasitic cavities. In full-wave simulations, it is observed that the proposed ESPAR E-plane array is able to steer the beam from -30 to 30 degrees, which is comparable to the beam-steering range of ESPAR antennas operating in the H-plane.},
+  Af                       = {Ouyang, WeiEOLEOLGong, Xun},
+  Bn                       = {978-1-5090-4375-0},
+  Cl                       = {Cocoa Beach, FL},
+  Ct                       = {18th IEEE Wireless and Microwave Technology Conference (WAMICON)},
+  Cy                       = {APR 24-25, 2017},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000403393300020}
+}
+
+@Article{Ouyang2017a,
+  Title                    = {Cavity-Backed Slot ESPAR Cross Array with Two-Dimensional Beam Steering Control},
+  Author                   = {Ouyang, W. and Gong, X.},
+  Journal                  = {2017 Ieee International Symposium On Antennas and Propagation \& Usnc/ursi National Radio Science Meeting},
+  Year                     = {2017},
+  Pages                    = {307--308},
+
+  Abstract                 = {A novel cavity-backed slot ESPAR cross array with plane-independent beam scanning capability is presented in this paper. As with conventional ESPAR antenna, the parasitic cavities are fed by the center driven cavity and terminated with tunable capacitors. Due to the difficulty of achieving E-plane coupling and minimizing cross coupling between the E- and H-plane parasitic elements there are relatively few reported two-dimensional beam steering ESPAR designs. In this work it is demonstrated that these challenges can be overcome by exploiting the cavity arrangement and geometry to control the coupling between cavities. Independent E-and H-plane beam steering control is achieved by dynamically changing the load impedance of corresponding parasitic elements. It is shown that this ESPAR cross array is able to steer the beam from -24 to 24 degrees in the E-plane and -20 to 20 degrees in the H-plane; the demonstrated beam steering performance in either plane is comparable to ESPAR antennas only able to operate in a single plane.},
+  Af                       = {Ouyang, WeiEOLEOLGong, Xun},
+  Bn                       = {978-1-5386-3284-0},
+  Cl                       = {San Diego, CA},
+  Ct                       = {International Symposium of IEEE-Antennas-and-Propagation-Society /EOLEOLUSNC/URSI National Radio Science Meeting},
+  Cy                       = {JUL 09-14, 2017},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Se                       = {IEEE Antennas and Propagation Society International Symposium},
+  Sn                       = {1522-3965},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000424765300150}
+}
+
+@Article{Pandit2016,
+  Title                    = {A Compact Planar MIMO Monopole Antenna with Reduced Mutual Coupling for WLAN Applications using ELC Resonator},
+  Author                   = {Pandit, S. and Mohan, A. and Ray, P.},
+  Journal                  = {2016 Asia-pacific Microwave Conference (apmc2016)},
+  Year                     = {2016},
+  Pages                    = {IEEE, MTTS, IEEE Delhi Sect, European Microwave Assoc},
+
+  Abstract                 = {This paper presents a novel mutual coupling reduction technique of compact two-element multiple- input multiple-output (MIMO) antenna using Electric-LC (ELC) resonator. The proposed antenna has omnidirectional radiation pattern and the 20 dB isolation bandwidth is 9.8 %, i.e., from 5.31-5.86 GHz which covers the WLAN frequency range of IEEE 802.11a standard whereas return loss of the proposed antenna is better than 15 dB throughout the entire band. The separation between antenna elements is only 0.14 lambda(0), where lambda(0) corresponds to free space wavelength at 5.7 GHz. The radiation pattern is negligibly affected and the proposed antenna has 8.5 dB lower mutual coupling than that of the reference antenna due to the ELC resonator. This concept is verified with fabrication and measurement.},
+  Af                       = {Pandit, SoumenEOLEOLMohan, AkhileshEOLEOLRay, Priyadip},
+  Bn                       = {978-1-5090-1592-4},
+  Cl                       = {New Delhi, INDIA},
+  Ct                       = {Asia-Pacific Microwave Conference (APMC)},
+  Cy                       = {DEC 05-09, 2016},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Se                       = {Asia Pacific Microwave Conference-Proceedings},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000405560500216}
+}
+
+@Article{Ren2017,
+  Title                    = {A Wideband And Wide-angle Scanning Circularly Polarized Array With Low Profile},
+  Author                   = {Ren, J. and Zhang, L. N. and Liang, X. L. and Yuan, W. L. and Qian, Q. Y. and Geng, J. P. and Zhu, W. R. and Jin, R. H.},
+  Journal                  = {2017 Ieee International Symposium On Antennas and Propagation \& Usnc/ursi National Radio Science Meeting},
+  Year                     = {2017},
+  Pages                    = {1815--1816},
+
+  Abstract                 = {A wideband and wide-angle scanning circularly polarized array with low profile is introduced. The proposed array is composed of three annular sub-arrays with tilted elements and a ripple-shaped ground plate. A case with 64 elements is designed and simulated. The simulation results demonstrates that array scanning gain fluctuations less than 2.26 dB at the center frequency and 3 dB in the operation bandwidth (from 8 GHz to 9.1 GHz) within two-dimensional scanning angles over +/- 60 degrees.},
+  Af                       = {Ren, JieEOLEOLZhang, LinaEOLEOLLiang, XianlingEOLEOLYuan, WeileEOLEOLQian, QiaoyuanEOLEOLGeng, JunpingEOLEOLZhu, WeirenEOLEOLJin, Ronghong},
+  Bn                       = {978-1-5386-3284-0},
+  Cl                       = {San Diego, CA},
+  Ct                       = {International Symposium of IEEE-Antennas-and-Propagation-Society /EOLEOLUSNC/URSI National Radio Science Meeting},
+  Cy                       = {JUL 09-14, 2017},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Se                       = {IEEE Antennas and Propagation Society International Symposium},
+  Sn                       = {1522-3965},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000424765301448}
+}
+
+@Article{Tang2017,
+  Title                    = {Mutual Coupling Reduction Using Meta-Structures for Wideband, Dual-Polarized, and High-Density Patch Arrays},
+  Author                   = {Tang, M. C. and Chen, Z. Y. and Wang, H. and Li, M. and Luo, B. and Wang, J. D. and Shi, Z. L. and Ziolkowski, R. W.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2017},
+
+  Month                    = aug,
+  Number                   = {8},
+  Pages                    = {3986--3998},
+  Volume                   = {65},
+
+  Abstract                 = {A mutual coupling reduction strategy that employs meta-structures is introduced for wideband, dual-polarized, high-density, planar, and patch antenna arrays. The meta-structures consist of two types of resonators: grounded capacitively loaded loops (GCLLs) and p-shaped elements. By incorporating the meta-structures into the array configuration, the isolation levels between adjacent radiating elements in both the E-and H-planes orientations are improved by as much as 7.15 dB. The surface current distribution behaviors of the array with only the GCLLs and with only the p-shaped elements are investigated thoroughly to explain the mutual coupling reduction mechanisms. A proof-of- concept array was constructed and tests were performed that validate the reported design principles and simulation results.},
+  Af                       = {Tang, Ming-ChunEOLEOLChen, ZhiyuanEOLEOLWang, HaoEOLEOLLi, MeiEOLEOLLuo, BingEOLEOLWang, JiadiEOLEOLShi, ZhongliEOLEOLZiolkowski, Richard W.},
+  Doi                      = {10.1109/TAP.2017.2710214},
+  Ei                       = {1558-2221},
+  Oi                       = {Ziolkowski, Richard/0000-0003-4256-6902},
+  Owner                    = {913},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000407397600019}
+}
+
+@Article{Wang2017b,
+  Title                    = {Planar array with bidirectional elements for tunnel environments},
+  Author                   = {Wang, R. and Wang, B. Z. and Ding, X. and Ou, J. Y.},
+  Journal                  = {Scientific Reports},
+  Year                     = {2017},
+
+  Month                    = nov,
+  Pages                    = {15421},
+  Volume                   = {7},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {The growing demands for wireless communications in tunnel environments are driven by requests for maintaining uninterrupted internet access for users in tunnels as well as wireless connections for wireless sensors, security, and control networks. Nevertheless, wireless networks in tunnel environments are associated with technical challenges related to elongated wireless coverage in two opposite near-end-fire directions. Here, we introduce a low-profile bidirectional antenna that can be mounted on a large ground plane and that has a dual-magnetic-current mode exhibiting radiation patterns with 3-dB beamwidth coverage at near-end-fire angles. Furthermore, we realized a planar array with eight such bidirectional antennas that were configured as a sparse array in order to reduce the commonplace issues of mutual coupling and grating lobes. The radiation beams of the proposed antenna array can scan in the end-fire area (60 degrees < phi < 120 degrees, 45 degrees < theta < 80 degrees), with scanning gains of 11 similar to 15 dB in the near-end-fire directions. In addition, we demonstrate that the proposed array can adaptively generate a directional single beam or multiple beams according to the positions of users, which is suitable for intelligent communication systems with low power consumptions and high communication bandwidths in tunnel environments.},
+  Af                       = {Wang, RenEOLEOLWang, Bing-ZhongEOLEOLDing, XiaoEOLEOLOu, Jun-Yu},
+  Doi                      = {10.1038/s41598-017-15817-4},
+  Oi                       = {Ou, Jun-Yu/0000-0001-8028-6130},
+  Owner                    = {913},
+  Pm                       = {29133877},
+  Ri                       = {Ou, Jun-Yu/B-3339-2012},
+  Sn                       = {2045-2322},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000415022900057}
+}
+
+@Article{Wang2017a,
+  Title                    = {Wide-angle scanning planar array with quasi-hemispherical-pattern elements},
+  Author                   = {Wang, R. and Wang, B. Z. and Hu, C. H. and Ding, X.},
+  Journal                  = {Scientific Reports},
+  Year                     = {2017},
+
+  Month                    = jun,
+  Pages                    = {2729},
+  Volume                   = {7},
+
+  Abstract                 = {A compact quasi-hemispherical-pattern antenna, two linear wide-angle scanning arrays, and a planar wide-angle scanning array are proposed. To increase the field-of-view scanning range of arrays, a compact low-profile antenna with a quasi-hemispherical pattern is introduced firstly. When the ground is infinite, the proposed antenna has a quasi-hemispherical pattern, i.e., an approximately uniform radiation in the upper half space. Afterward, two linear arrays arranged along the length and width of the proposed antenna's radiation patch are presented. The main beams of the two arrays with 16 active elements can scan from less than -75 degrees to more than +75 degrees. When the linear array element number is 128, the maximum scanning angle can reach 86 degrees. At last, a planar array with 16 x 16 active elements is proposed. In two special planes, xz plane and yz plane, the main beams of the planar array can scan from less than -77 degrees to more than +77 degrees with a gain fluctuation less than 5 dB and a maximum side lobe level (SLL) less than -10 dB. An excellent wide-angle-scanning performance both in linear and planar arrays can be obtained using the proposed method.},
+  Af                       = {Wang, RenEOLEOLWang, Bing-ZhongEOLEOLHu, ChanghaiEOLEOLDing, Xiao},
+  Doi                      = {10.1038/s41598-017-03005-3},
+  Owner                    = {913},
+  Pm                       = {28578417},
+  Sn                       = {2045-2322},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000402515800047}
+}
+
+@Article{Wang2017,
+  Title                    = {Self-Interference Cancellation Antenna Using Auxiliary Port Reflection for Full-Duplex Application},
+  Author                   = {Wang, X. Y. and Che, W. Q. and Yang, W. C. and Feng, W. J. and Gu, L. Z.},
+  Journal                  = {Ieee Antennas and Wireless Propagation Letters},
+  Year                     = {2017},
+  Pages                    = {2873--2876},
+  Volume                   = {16},
+
+  Abstract                 = {An aperture-coupled microstrip patch antenna pair with wideband self-interference cancellation (SIC) performance is proposed. It consists of two orthogonal linearly polarized antennas and an auxiliary port loaded with a proper reflective terminal. Besides the direct coupling between two antennas, an indirect coupling path is introduced and controlled by the auxiliary port reflection. The coupling between these two paths will superpose and cause cancellation at the receiving antenna output, while a high isolation between the antennas can be achieved accordingly. For the validation of the proposed SIC, one prototype was designed and fabricated. Good agreement can be observed between the simulated and measured results. A high isolation of 35.9-46.5 dB over the entire working band of (2.40-2.62 GHz) is observed, while the radiation patterns are almost the same for the antenna pairs with and without SIC circuit. Due to the merits of good performances and easy implementation, the proposed SIC technique has potential application for full-duplex transceiver to suppress the self-interference.},
+  Af                       = {Wang, XiyaoEOLEOLChe, WenquanEOLEOLYang, WanchenEOLEOLFeng, WenjieEOLEOLGu, Lizheng},
+  Doi                      = {10.1109/LAWP.2017.2750698},
+  Ei                       = {1548-5757},
+  Owner                    = {913},
+  Sn                       = {1536-1225},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000413046000024}
+}
+
+@Article{Wu2013,
+  Title                    = {Single-Layer Microstrip High-Directivity Coupled-Line Coupler With Tight Coupling},
+  Author                   = {Wu, Yongle and Sun, Weinong and Leung, Sai-Wing and Diao, Yinliang and Chan, Kwok-Hung and Siu, Yun-Ming},
+  Journal                  = {Ieee Transactions On Microwave Theory and Techniques},
+  Year                     = {2013},
+
+  Month                    = feb,
+  Number                   = {2},
+  Pages                    = {746--753},
+  Volume                   = {61},
+
+  Abstract                 = {A novel symmetrical coupled-line circuit structure without patterned ground plane is proposed to design tight-coupling high-directivity couplers, which would be found in numerous applications in a microstrip RF front end because of its simple structure and inherent excellent compatibility. Based on a traditional even- and odd-mode technique, closed-form mathematical equations for both circuit electrical parameters and scattering parameters are obtained. Due to the use of two coupled-line sections placed in the vertical direction, the directivity of this novel coupler without any other compensation techniques can be enhanced while maintaining tight-coupling performance of almost 3 dB. For demonstrative purposes, three typical full-wave simulation examples with realized physical dimensions in microstrip technology are presented, indicating high directivity and tight coupling coefficient. Finally, a practical microstrip coupled-line coupler is designed and fabricated to operate at approximately 2 GHz. The measured results show good return loss, quadrature phase characteristics, high directivity, and strong coupling performances.},
+  Doi                      = {10.1109/TMTT.2012.2235855},
+  File                     = {Wu2013.pdf:Wu2013.pdf:PDF},
+  Oi                       = {Wu, Yongle/0000-0002-3269-7143; LEUNG, Sai WingEOLEOLPeter/0000-0002-4326-2604; SIU, Yun Ming Timothy/0000-0003-1228-4699},
+  Owner                    = {913},
+  Sn                       = {0018-9480},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000314827300005}
+}
+
+@Article{Xia2017,
+  Title                    = {A Wideband Wide-angle Scanning 1-D Microstrip Patch Array},
+  Author                   = {Xia, R. L. and Qu, S. W.},
+  Journal                  = {2017 11th European Conference On Antennas and Propagation (eucap)},
+  Year                     = {2017},
+  Pages                    = {1079--1082},
+
+  Abstract                 = {Controlling the mutual coupling between array elements is one of the key problems in phased array designs. In this letter, a wideband decoupling network is proposed to suppress the mutual coupling between adjacent array elements. It is shown that the employment of the proposed network leads to a significant improvement of the operating bandwidth under the condition of maintaining a wide scan range, compared with conventional feeding techniques. In this manner, a 1 x 16 stack patch phased array prototype with the proposed decoupling network was fabricated. Measurement results agree well with simulated ones and indicate the effectiveness of the proposed approach in designing a wideband wide-angle scanning phased array.},
+  Af                       = {Xia, Run-LiangEOLEOLQu, Shi-Wei},
+  Bn                       = {978-8-8907-0187-0},
+  Cl                       = {Paris, FRANCE},
+  Ct                       = {11th European Conference on Antennas and Propagation (EUCAP)},
+  Cy                       = {MAR 19-24, 2017},
+  Gp                       = {IEEE},
+  Owner                    = {913},
+  Se                       = {Proceedings of the European Conference on Antennas and Propagation},
+  Sn                       = {2164-3342},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000403827301030}
+}
+
+@Article{Xia2015,
+  Title                    = {An Efficient Decoupling Feeding Network for Microstrip Antenna Array},
+  Author                   = {Xia, R. L. and Qu, S. W. and Li, P. F. and Jiang, Q. and Nie, Z. P.},
+  Journal                  = {Ieee Antennas and Wireless Propagation Letters},
+  Year                     = {2015},
+  Pages                    = {871--874},
+  Volume                   = {14},
+
+  Abstract                 = {An efficient decoupling feeding network is proposed in this letter. It is composed of two directional couplers and two sections of transmission line for connection use. By connecting the two couplers, an indirect coupling with controlled magnitude and phase is introduced, which can be used to cancel out the direct coupling caused by space waves and surface waves between array elements. To demonstrate the method, a two-element microstrip antenna array with the proposed network has been designed, fabricated and measured. Both simulated and measured results have simultaneously proved that the proposed method presents excellent decoupling performance. The measured mutual coupling can be reduced to below dB at center frequency. Meanwhile it has little influence on return loss and radiation patterns. The decoupling mechanism is simple and straightforward which can be easily applied in phased array antennas and MIMO systems.},
+  Af                       = {Xia, Run-LiangEOLEOLQu, Shi-WeiEOLEOLLi, Peng-FaEOLEOLJiang, QiEOLEOLNie, Zai-Ping},
+  C1                       = {[Xia, Run-Liang; Qu, Shi-Wei; Li, Peng-Fa; Jiang, Qi; Nie, Zai-Ping] Univ Elect Sci & Technol China, Sch Elect Engn, Chengdu 611731, Peoples R China.},
+  Da                       = {2018-10-23},
+  De                       = {Decoupling network; microstrip antenna array; mutual coupling},
+  Doi                      = {10.1109/LAWP.2014.2380786},
+  Ei                       = {1548-5757},
+  Em                       = {shiweiqu@uestc.edu.cn},
+  File                     = {Xia2015.pdf:Xia2015.pdf:PDF},
+  Fu                       = {Natural Science Foundation of China (NSFC) [61371051, 61101036]; ChinaEOLEOLPostdoctoral Science Foundation [2012M521682, 2013T60847]},
+  Fx                       = {This work was supported in part by the Natural Science Foundation ofEOLEOLChina (NSFC) Projects under 61371051 and 61101036, in part by theEOLEOLGeneral Financial Grant from the China Postdoctoral Science FoundationEOLEOLunder No. 2012M521682 and 2013T60847.},
+  Ga                       = {CF4EK},
+  J9                       = {IEEE ANTENN WIREL PR},
+  Ji                       = {IEEE Antennas Wirel. Propag. Lett.},
+  La                       = {English},
+  Nr                       = {14},
+  Owner                    = {913},
+  Pa                       = {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA},
+  Pg                       = {4},
+  Pi                       = {PISCATAWAY},
+  Publisher                = {Ieee-inst Electrical Electronics Engineers Inc},
+  Ranking                  = {rank3},
+  Rp                       = {Xia, RL (reprint author), Univ Elect Sci & Technol China, Sch Elect Engn, Chengdu 611731, Peoples R China.},
+  Sc                       = {Engineering; Telecommunications},
+  Sn                       = {1536-1225},
+  Tc                       = {4},
+  Timestamp                = {2018.10.23},
+  U1                       = {1},
+  U2                       = {12},
+  Ut                       = {WOS:000352501300008},
+  Wc                       = {Engineering, Electrical & Electronic; Telecommunications},
+  Z9                       = {4}
+}
+
+@Article{Xia2015a,
+  Title                    = {Wide-Angle Scanning Phased Array Using an Efficient Decoupling Network},
+  Author                   = {Xia, R. L. and Qu, S. W. and Li, P. F. and Yang, D. Q. and Yang, S. W. and Nie, Z. P.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2015},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {5161--5165},
+  Volume                   = {63},
+
+  Abstract                 = {The active impedance of each element in a phased array changes substantially with scan angle due to mutual coupling. Therefore, a key challenge in the design of wide-angle scanning phased array is to achieve wide-angle impedance matching (WAIM). In this communication, an efficient decoupling network is developed to reduce the mutual coupling between adjacent elements for this purpose. A complete scattering matrix analysis of the decoupling network is given and the design procedure is summarized. A 1 x 16 linear microstrip phased array has been designed and fabricated for experimental verification. Good agreement is obtained between measured and simulated results. The measured mutual coupling between adjacent elements is reduced to lower than -35 dB at the center frequency. Due to the reduced mutual coupling, the array can experimentally scan to 66 degrees. with a gain reduction of only 3.04 dB.},
+  Af                       = {Xia, Run-LiangEOLEOLQu, Shi-WeiEOLEOLLi, Peng-FaEOLEOLYang, De-QiangEOLEOLYang, ShiwenEOLEOLNie, Zai-Ping},
+  Doi                      = {10.1109/TAP.2015.2476342},
+  Ei                       = {1558-2221},
+  Oi                       = {Yang, Shiwen/0000-0002-1546-8947},
+  Owner                    = {913},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000367730500063}
+}
+
+@Article{Xu2018,
+  Title                    = {Wideband Patch Antenna Using Multiple Parasitic Patches and Its Array Application With Mutual Coupling Reduction},
+  Author                   = {Xu, K. D. and Zhu, J. F. and Liao, S. W. and Xue, Q.},
+  Journal                  = {Ieee Access},
+  Year                     = {2018},
+  Pages                    = {42497--42506},
+  Volume                   = {6},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {A dual-layer patch antenna using multiple parasitic patches for the bandwidth enhancement is presented. Two additional resonances can be obtained with the help of the parasitic patches of the antenna. Consequently, a wide impedance bandwidth of 17% (vertical bar S-11 vertical bar < -10 dB) can be achieved. Then, without the increase of the antenna array footprint, the combinations of two decoupling techniques (i.e., metalized via walls and short-circuited stepped-impedance structures as the neutralized networks) are adopted for mutual coupling reduction when the antenna element is extended to 2 x 1, 2 x 2, and even 4 x 4 array applications. To validate the design idea, a 2 x 2 antenna array is fabricated and tested, whose measured isolations between any two feeding ports are better than 28 dB within the frequency range of 3-4 GHz. The measured peak gain fluctuates from 12.6 to 13.6 dBi within the 10-dB impedance band of 3.35-3.95 GHz, and the cross-polarization levels in both the E- and H-planes are lower than -38 dB at the boresight direction.},
+  Af                       = {Xu, Kai DaEOLEOLZhu, JianfengEOLEOLLiao, ShaoweiEOLEOLXue, Quan},
+  Doi                      = {10.1109/ACCESS.2018.2860594},
+  File                     = {Xu2018.pdf:Xu2018.pdf:PDF},
+  Oi                       = {Xu, Kaida/0000-0001-9408-1347},
+  Owner                    = {913},
+  Sn                       = {2169-3536},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000442404500025}
+}
+
+@Article{Xu2017,
+  Title                    = {Deep-subwavelength Decoupling for MIMO Antennas in Mobile Handsets with Singular Medium},
+  Author                   = {Xu, S. and Zhang, M. and Wen, H. L. and Wang, J.},
+  Journal                  = {Scientific Reports},
+  Year                     = {2017},
+
+  Month                    = sep,
+  Pages                    = {12162},
+  Volume                   = {7},
+
+  Abstract                 = {Decreasing the mutual coupling between Multi-input Multi-output (MIMO) antenna elements in a mobile handset and achieving a high data rate is a challenging topic as the 5th-generation (5G) communication age is coming. Conventional decoupling components for MIMO antennas have to be re-designed when the geometries or frequencies of antennas have any adjustment. In this paper, we report a novel metamaterial-based decoupling strategy for MIMO antennas in mobile handsets with wide applicability. The decoupling component is made of subwavelength metal/air layers, which can be treated as singular medium over a broad frequency band. The flexible applicable property of the decoupling strategy is verified with different antennas over different frequency bands with the same metamaterial decoupling element. Finally, 1/100-wavelength 10-dB isolation is demonstrated for a 24-element MIMO antenna in mobile handsets over the frequency band from 4.55 to 4.75 GHz.},
+  Af                       = {Xu, SuEOLEOLZhang, MingEOLEOLWen, HuailinEOLEOLWang, Jun},
+  Doi                      = {10.1038/s41598-017-11281-2},
+  Owner                    = {913},
+  Pm                       = {28939831},
+  Sn                       = {2045-2322},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000411434900028}
+}
+
+@Article{Yang2003,
+  Title                    = {Microstrip antennas integrated with electromagnetic band-gap (EBG) structures: A low mutual coupling design for array applications},
+  Author                   = {Yang, F. and Rahmat-Samii, Y.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2003},
+
+  Month                    = oct,
+  Number                   = {10},
+  Pages                    = {2936--2946},
+  Volume                   = {51},
+
+  Abstract                 = {Utilization of electromagnetic band-gap (EBG) structures is becoming attractive in the electromagnetic and antenna community. In this paper, a mushroom-like EBG structure is analyzed using the finite-difference time-domain (FDTD) method. Its band-gap feature of surface-wave suppression is demonstrated by exhibiting the near field distributions of the electromagnetic waves. The mutual coupling of microstrip antennas is parametrically investigated, including both the E and H coupling directions, different substrate thickness, and various dielectric constants. It is observed that the E-plane coupled microstrip antenna array on a thick and high permittivity substrate has a strong mutual coupling due to the pronounced surface waves. Therefore, an EBG structure is inserted between array elements to reduce the mutual coupling. This idea has been verified by both the FDTD simulations and experimental results. As a result, a significant 8 dB mutual coupling reduction is noticed from the measurements.},
+  Doi                      = {10.1109/TAP.2003.817983},
+  File                     = {Yang2003.pdf:Yang2003.pdf:PDF},
+  Owner                    = {913},
+  Pn                       = {2},
+  Ranking                  = {rank4},
+  Sn                       = {0018-926X},
+  Timestamp                = {2018.10.23},
+  Ut                       = {WOS:000185861700024}
+}
+
