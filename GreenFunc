@@ -1,0 +1,603 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{Adanir2014,
+  Title                    = {Complete and Accurate Discrete Complex Image Approximation of Periodic Green's Function in Layered Media},
+  Author                   = {S. Adanir and L. Alatan},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2014},
+
+  Month                    = {Aug},
+  Number                   = {8},
+  Pages                    = {4115-4121},
+  Volume                   = {62},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {The periodic Green's functions (PGF) in layered media can be expressed as an infinite series in terms of the spectral domain Green's functions. The discrete complex image method (DCIM) can be used to approximate these spectral domain Green's functions. In this work, it is demonstrated that the complete and accurate DCIM approximation of the PGF is possible only when the DCIM approximation is obtained through the samples of the spectral domain Green's function along the real kρaxis. This choice of sampling path requires the extraction of surface wave pole contributions prior to the application of DCIM. Different forms of the Ewald method are utilized to efficiently compute the infinite summations associated with the complex images and the contribution of surface wave poles.},
+  Doi                      = {10.1109/TAP.2014.2323087},
+  ISSN                     = {0018-926X},
+  Keywords                 = {approximation theory;electromagnetic wave propagation;Green's function methods;discrete complex image approximation;periodic Green's function;layered media;spectral domain Green's functions;DCIM approximation;sampling path;surface wave pole contributions;Ewald method;Green's function methods;Approximation methods;Surface waves;Spectral analysis;Nonhomogeneous media;Convergence;Accuracy;Discrete complex image method;Ewald transformation;Green's functions;multilayer periodic structures},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Blagouchine2011,
+  Title                    = {Analytic Method for the Computation of the Total Harmonic Distortion by the Cauchy Method of Residues},
+  Author                   = {I. V. Blagouchine and E. Moreau},
+  Journal                  = {IEEE Transactions on Communications},
+  Year                     = {2011},
+
+  Month                    = {Sep.},
+  Number                   = {9},
+  Pages                    = {2478-2491},
+  Volume                   = {59},
+  Abstract                 = {The total harmonic distortion (THD) is an important performance criterion for almost any communication device. In most cases, the THD of a periodic signal, which has been processed in some way, is either measured directly or roughly estimated numerically, while analytic methods are employed only in a limited number of simple cases. However, the knowledge of the theoretical THD may be quite important for the conception and design of the communication equipment (e.g. transmitters, power amplifiers). The aim of this paper is to present a general theoretic approach, which permits to obtain an analytic closed-form expression for the THD. It is also shown that in some cases, an approximate analytic method, having good precision and being less sophisticated, may be developed. Finally, the mathematical technique, on which the proposed method is based, is described in the appendix.},
+  Doi                      = {10.1109/TCOMM.2011.061511.100749},
+  ISSN                     = {0090-6778},
+  Keywords                 = {continuous time filters;harmonic distortion;signal processing;total harmonic distortion;Cauchy method;communication device;THD;periodic signal;communication equipment design;signal analysis;continuous-time filter;Harmonic analysis;Fourier series;Transfer functions;Total harmonic distortion;Power harmonic filters;Resonant frequency;Transmitters;Total harmonic distortion (THD);harmonic analysis;signal analysis;Fourier series;analytic methods;theoretic techniques;complex analysis;Cauchy's theorem;residue theorem;continuous-time filters;transmitters;power amplifiers},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Burghignoli2018,
+  Title                    = {Pulsed Vertical Dipole Response of a Thin Sheet With High-Contrast Dielectric and Conductive Properties},
+  Author                   = {P. Burghignoli and G. Lovat and R. Araneo and S. Celozzi},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2018},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {217-225},
+  Volume                   = {66},
+  Abstract                 = {The 3-D time-domain Green's function (GF) for the vector potential excited by a transient vertical electric dipole in the presence of a thin sheet with high-contrast dielectric and conductive properties is derived using a modified Cagniard-de Hoop approach. The resulting expression involves the numerical evaluation of a 2-D integral over a finite integration domain, computationally much less expensive than the direct numerical evaluation of the inverse Laplace/Hankel transform of the relevant spectral-domain GF. Expressions for the transient electromagnetic fields can thus be obtained, and numerical results are provided, which illustrate their salient features and validate the proposed formulation.},
+  Doi                      = {10.1109/TAP.2017.2775289},
+  ISSN                     = {0018-926X},
+  Keywords                 = {dielectric properties;electromagnetic fields;Green's function methods;Hankel transforms;integration;inverse transforms;Laplace transforms;vector potential;transient vertical electric dipole;Hoop approach;resulting expression;finite integration domain;direct numerical evaluation;relevant spectral-domain GF;transient electromagnetic fields;3D time-domain Green's function;pulsed vertical dipole response;high-contrast dielectric properties;high-contrast conductive properties;modified Cagniard-de Hoop approach;2D integral;inverse Laplace transform;inverse Hankel transform;Green's function methods;Transient analysis;Dielectrics;Antennas;Time-domain analysis;Standards;Cagniard–de Hoop (CdH) method;high-contrast thin layers;pulsed electromagnetic fields;time-domain Green’s function (TD GF)},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Chen2017,
+  Title                    = {Robust location of optical fiber modes via the argument principle method},
+  Author                   = {Chen, P. Y. and Sivan, Y.},
+  Journal                  = {Computer Physics Communications},
+  Year                     = {2017},
+
+  Month                    = may,
+  Pages                    = {105--116},
+  Volume                   = {214},
+
+  AF                       = {Chen, Parry Y.EOLEOLSivan, Yonatan},
+  C1                       = {[Chen, Parry Y.] Tel Aviv Univ, Sch Phys & Astron, Raymond & Beverly Sackler Fac Exact Sci, IL-69978 Tel Aviv, Israel.EOLEOL[Chen, Parry Y.; Sivan, Yonatan] Ben Gurion Univ Negev, Unit Electroopt Engn, Beer Sheva, Israel.},
+  DA                       = {2019-01-19},
+  DE                       = {Complex root search; Argument principle method; Fiber dispersionEOLEOLrelation},
+  EI                       = {1879-2944},
+  EM                       = {parryyu@post.bgu.ac.il},
+  FU                       = {Tel Aviv University Center for Nanoscience and Nanotechnology},
+  FX                       = {PYC acknowledges fellowship support from the Tel Aviv University CenterEOLEOLfor Nanoscience and Nanotechnology. We wish to thank the anonymousEOLEOLreviewers for their insightful comments, which lead to additionalEOLEOLdiscussion within the paper.},
+  GA                       = {EP4NY},
+  J9                       = {COMPUT PHYS COMMUN},
+  JI                       = {Comput. Phys. Commun.},
+  LA                       = {English},
+  NR                       = {48},
+  PA                       = {PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS},
+  PG                       = {12},
+  PI                       = {AMSTERDAM},
+  RP                       = {Chen, PY (reprint author), Tel Aviv Univ, Sch Phys & Astron, Raymond & Beverly Sackler Fac Exact Sci, IL-69978 Tel Aviv, Israel.},
+  SC                       = {Computer Science; Physics},
+  SN                       = {0010-4655},
+  TC                       = {6},
+  U1                       = {1},
+  U2                       = {8},
+  UT                       = {WOS:000397358400012},
+  WC                       = {Computer Science, Interdisciplinary Applications; Physics, Mathematical},
+  Z9                       = {6},
+  Abstract                 = {We implement a robust, globally convergent root search method for transcendental equations guaranteed to locate all complex roots within a specified search domain, based on Cauchy's residue theorem. Although several implementations of the argument principle already exist, ours has several advantages: it allows singularities within the search domain and branch points are not fatal to the method. Furthermore, our implementation is simple and is written in MATLAB, fulfilling the need for an easily integrated implementation which can be readily modified to accommodate the many variations of the argument principle method, each of which is suited to a different application. We apply the method to the step index fiber dispersion relation, which has become topical due to the recent proliferation of high index contrast fibers. We also find modes with permittivity as the eigenvalue, catering to recent numerical methods that expand the radiation of sources using eigenmodes.},
+  Doi                      = {10.1016/j.cpc.2016.11.009},
+  Keywords                 = {WAVE-GUIDE DISPERSION; ANALYTIC-FUNCTIONS; COMPUTING ZEROS; NUMERICAL-ANALYSIS; SURFACE-PLASMONS; COMPLEX ZEROS; ALGORITHM; WIRES},
+  Owner                    = {913},
+  Publisher                = {Elsevier Science Bv},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Ding2014,
+  Title                    = {An Accurate and Systematic Surface-Wave Pole Location Method for Multilayered Media},
+  Author                   = {J. Ding and S. L. Dvorak},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2014},
+
+  Month                    = {Feb},
+  Number                   = {2},
+  Pages                    = {997-1001},
+  Volume                   = {62},
+  Abstract                 = {Finding the surface-wave modes in multilayered media is a problem that is of great importance in many full-wave numerical electromagnetic solvers. In this communication, an efficient and systematic method is proposed to locate all of the surface-wave poles for general multilayered structures. It is observed that the characteristic equations can be cast into a function composed of εri, kz,i, and Ti= tan(kz,idi), where the Ti occur for the substrates that have finite thicknesses. The pole location method is carried out in the complex kzM -plane, where kzM represents the wave number, along the z-axis, for the substrate with the maximum permittivity. Two sets of critical points are determined in the kzM-plane according to the parameters of the structure. Since there is at most one pole between two consecutive critical points, these critical points establish proper limits for the zero search algorithm. Muller's method can thus be applied to find the pole between the two consecutive critical points if it exists. The proposed method is validated by means of several numerical examples.},
+  Doi                      = {10.1109/TAP.2013.2292071},
+  File                     = {Ding2014.pdf:Ding2014.pdf:PDF},
+  ISSN                     = {0018-926X},
+  Keywords                 = {electromagnetic waves;Green's function methods;inhomogeneous media;multilayers;surface-wave modes;multilayered media;fullwave numerical electromagnetic solvers;surface-wave poles;general multilayered structures;characteristic equations;pole location method;complex kzM -plane;critical points;zero search algorithm;Muller's method;Microstrip;Equations;Green's function methods;Spectral analysis;Periodic structures;Systematics;Geometry;Green's function;multilayered media;surface wave modes;pole location},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Egel2016,
+  Title                    = {Efficient evaluation of Sommerfeld integrals for the optical simulation of many scattering particles in planarly layered media},
+  Author                   = {Egel, Amos and Kettlitz, Siegfried W. and Lemmer, Uli},
+  Journal                  = {JOURNAL OF THE OPTICAL SOCIETY OF AMERICA A-OPTICS IMAGE SCIENCE AND
+ VISION},
+  Year                     = {2016},
+
+  Month                    = {{APR 1}},
+  Number                   = {{4}},
+  Pages                    = {{698-706}},
+  Volume                   = {{33}},
+  Abstract                 = {{A strategy for the efficient numerical evaluation of Sommerfeld
+ integrals in the context of electromagnetic scattering at particles
+ embedded in a plane parallel layer system is presented. The scheme
+ relies on a lookup-table approach in combination with an asymptotic
+ approximation of the Bessel function in order to enable the use of fast
+ Fourier transformation. Accuracy of the algorithm is enhanced by means
+ of singularity extraction and a novel technique to treat the integrand
+ at small arguments. For short particle distances, this method is
+ accomplished by a slower but more robust direct integration along a
+ deflected contour. As an example, we investigate enhanced light
+ extraction from an organic light-emitting diode by optical scattering
+ particles. The calculations are discussed with respect to accuracy and
+ computing time. By means of the present strategy, an accurate evaluation
+ of the scattered field for several thousand wavelength scale particles
+ can be achieved within a few hours on a conventional workstation
+ computer. (C) 2016 Optical Society of America}},
+  Address                  = {{2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA}},
+  Affiliation              = {{Egel, A (Reprint Author), Karlsruhe Inst Technol, Light Technol Inst, D-76131 Karlsruhe, Germany.
+ Egel, A (Reprint Author), Karlsruhe Inst Technol, Inst Microstruct Technol, D-76131 Karlsruhe, Germany.
+ Egel, Amos; Kettlitz, Siegfried W.; Lemmer, Uli, Karlsruhe Inst Technol, Light Technol Inst, D-76131 Karlsruhe, Germany.
+ Egel, Amos; Lemmer, Uli, Karlsruhe Inst Technol, Inst Microstruct Technol, D-76131 Karlsruhe, Germany.}},
+  Author-email             = {{amos.egel@kit.edu}},
+  Da                       = {{2019-01-19}},
+  Doc-delivery-number      = {{DI3KU}},
+  Doi                      = {{10.1364/JOSAA.33.000698}},
+  Eissn                    = {{1520-8532}},
+  Funding-acknowledgement  = {{Deutsche Forschungsgemeinschaft (DFG) {[}SPP 1839]}},
+  Funding-text             = {{Deutsche Forschungsgemeinschaft (DFG) (SPP 1839 ``Tailored
+ Disorder{''}).}},
+  ISSN                     = {{1084-7529}},
+  Journal-iso              = {{J. Opt. Soc. Am. A-Opt. Image Sci. Vis.}},
+  Keywords-plus            = {{ELECTROMAGNETIC SCATTERING; HANKEL TRANSFORM; STRATIFIED MEDIA;
+ GREENS-FUNCTIONS; PROPAGATION; ALGORITHMS; OLEDS}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{29}},
+  Orcid-numbers            = {{Lemmer, Uli/0000-0001-9892-329X}},
+  Owner                    = {913},
+  Publisher                = {{OPTICAL SOC AMER}},
+  Research-areas           = {{Optics}},
+  Researcherid-numbers     = {{Lemmer, Uli/F-8257-2012}},
+  Times-cited              = {{4}},
+  Timestamp                = {2019.01.19},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000373398300035}},
+  Usage-count-last-180-days = {{0}},
+  Usage-count-since-2013   = {{2}},
+  Web-of-science-categories = {{Optics}}
+}
+
+@Article{Gomez-Diaz2013,
+  Title                    = {Effect of Spatial Dispersion on Surface Waves Propagating Along Graphene Sheets},
+  Author                   = {J. S. Gomez-Diaz and J. R. Mosig and J. Perruisseau-Carrier},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2013},
+
+  Month                    = {July},
+  Number                   = {7},
+  Pages                    = {3589-3596},
+  Volume                   = {61},
+  Doi                      = {10.1109/TAP.2013.2254443},
+  ISSN                     = {0018-926X},
+  Keywords                 = {dispersion (wave);electric admittance;graphene;high-frequency effects;submillimetre wave propagation;surface plasmons;wave equations;surface wave propagation;spatially dispersive graphene sheet;substrate effects;spatial dispersion;graphene conductivity;frequency selective surfaces;analytical admittances;propagation constant;dispersion relations;TE mode;TM mode;transverse resonance equation;surface plasmons;intraband transitions;plasmonic devices;THz band;C;Graphene;Dispersion;Surface waves;Conductivity;Media;Propagation constant;Mathematical model;Graphene;plasmonics;spatial dispersion;surface waves},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Koufogiannis2015,
+  Title                    = {On the Development and Evaluation of Spatial-Domain Green’s Functions for Multilayered Structures With Conductive Sheets},
+  Author                   = {I. D. Koufogiannis and M. Mattes and J. R. Mosig},
+  Journal                  = {IEEE Transactions on Microwave Theory and Techniques},
+  Year                     = {2015},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {20-29},
+  Volume                   = {63},
+  Abstract                 = {This work focuses on Green's functions (GFs) of planar multilayered structures that may include an arbitrary number of conductive sheets. The spectral-domain GFs are derived through an automatized strategy based on the propagator matrix technique, while the spatial-domain counterparts are evaluated using a novel, efficient, and error controlled numerical method. All of the procedures remain general in order to accommodate for the tensorial nature of the surface conductivity of the sheets. Numerical examples of GFs for the mixed potential integral equation method are provided, validating the proposed algorithms.},
+  Doi                      = {10.1109/TMTT.2014.2375829},
+  ISSN                     = {0018-9480},
+  Keywords                 = {antenna radiation patterns;Green's function methods;integral equations;matrix algebra;planar antennas;spectral-domain analysis;surface conductivity;Green's function evaluation;planar multilayered structure;conductive sheet surface conductivity tensorial nature;spectral-domain GF evaluation;automatized strategy;propagator matrix technique;error controlled numerical method;mixed potential integral equation method;Spectral analysis;Accuracy;Magnetic multilayers;Green's function methods;Transmission line matrix methods;Conductivity;Plasmons;Conductive interfaces;Green's functions;integral equations;MPIE;multilayered structures;tensorial conductivity},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Kowalczyk2017,
+  Title                    = {On root finding algorithms for complex functions with branch cuts},
+  Author                   = {Kowalczyk, P.},
+  Journal                  = {Journal of Computational and Applied Mathematics},
+  Year                     = {2017},
+
+  Month                    = apr,
+  Pages                    = {1--9},
+  Volume                   = {314},
+
+  AF                       = {Kowalczyk, Piotr},
+  C1                       = {[Kowalczyk, Piotr] Gdansk Univ Technol, Fac Elect Telecommun & Informat, Narutowicza 11-12, PL-80233 Gdansk, Poland.},
+  DA                       = {2019-01-19},
+  DE                       = {Complex root finding; Branch cuts; Branch points},
+  EI                       = {1879-1778},
+  EM                       = {pio.kow@gmail.com},
+  FU                       = {Statutory Activities for the Faculty of Electronics, TelecommunicationsEOLEOLand Informatics, Gdansk University of Technology},
+  FX                       = {This work was supported under funding for Statutory Activities for theEOLEOLFaculty of Electronics, Telecommunications and Informatics, GdanskEOLEOLUniversity of Technology.},
+  GA                       = {EF7KP},
+  J9                       = {J COMPUT APPL MATH},
+  JI                       = {J. Comput. Appl. Math.},
+  LA                       = {English},
+  NR                       = {12},
+  OI                       = {Kowalczyk, Piotr/0000-0003-1655-7666},
+  PA                       = {PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS},
+  PG                       = {9},
+  PI                       = {AMSTERDAM},
+  RP                       = {Kowalczyk, P (reprint author), Gdansk Univ Technol, Fac Elect Telecommun & Informat, Narutowicza 11-12, PL-80233 Gdansk, Poland.},
+  SC                       = {Mathematics},
+  SN                       = {0377-0427},
+  TC                       = {9},
+  U1                       = {0},
+  U2                       = {3},
+  UT                       = {WOS:000390508800001},
+  WC                       = {Mathematics, Applied},
+  Z9                       = {9},
+  Abstract                 = {A simple and versatile method is presented, which enhances the complex root finding process by eliminating branch cuts and branch points in the analyzed domain. For any complex function defined by a finite number of Riemann sheets, a pointwise product of all the surfaces can be obtained. Such single-valued function is free of discontinuity caused by branch cuts and branch points. The roots of the new function are the same as the roots of original multi-valued variety, while the verification of them is much easier. Such approach can significantly improve the efficiency (as well as the effectiveness) of the root finding algorithms. The validity of the presented technique is supported by the results obtained from numerical tests. (C) 2016 Elsevier B.V. All rights reserved.},
+  Doi                      = {10.1016/j.cam.2016.10.015},
+  Keywords                 = {EQUATION},
+  Owner                    = {913},
+  Publisher                = {Elsevier Science Bv},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Michalski2013,
+  Title                    = {On the Low-Order Partial-Fraction Fitting of Dielectric Functions at Optical Wavelengths},
+  Author                   = {Michalski, K. A.},
+  Journal                  = {Ieee Transactions On Antennas and Propagation},
+  Year                     = {2013},
+
+  Month                    = dec,
+  Number                   = {12},
+  Pages                    = {6128--6135},
+  Volume                   = {61},
+
+  AF                       = {Michalski, Krzysztof A.},
+  C1                       = {Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77843 USA.},
+  DA                       = {2019-01-19},
+  DE                       = {Curve fitting; dispersive media; FDTD methods; rational approximation;EOLEOLvector fitting},
+  EI                       = {1558-2221},
+  GA                       = {266SO},
+  J9                       = {IEEE T ANTENN PROPAG},
+  JI                       = {IEEE Trans. Antennas Propag.},
+  LA                       = {English},
+  NR                       = {50},
+  PA                       = {445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA},
+  PG                       = {8},
+  PI                       = {PISCATAWAY},
+  RP                       = {Michalski, KA (reprint author), Texas A&M Univ, Dept Elect & Comp Engn, College Stn, TX 77843 USA.},
+  SC                       = {Engineering; Telecommunications},
+  SN                       = {0018-926X},
+  TC                       = {19},
+  U1                       = {0},
+  U2                       = {5},
+  UT                       = {WOS:000328044200033},
+  WC                       = {Engineering, Electrical & Electronic; Telecommunications},
+  Z9                       = {19},
+  Abstract                 = {Low-order partial-fraction (PF) fitting of optical dielectric functions from tabulated frequency data is investigated. Two rational function identification techniques are examined, viz., the Sanathanan-Koerner iteration and vector fitting, and it is found that these methods generate PF models of similar quality and both provide excellent starting solutions for further improvement by nonlinear optimizers. High-quality, wide-band PF models are obtained for several metals frequently encountered in plasmonic applications. These models are stable and well-suited for the finite-difference time-domain (FDTD) simulation of light interaction with nanostructures. An efficient FDTD updating scheme for PF media is also demonstrated.},
+  Doi                      = {10.1109/TAP.2013.2282082},
+  Keywords                 = {FREQUENCY-DOMAIN RESPONSES; CRITICAL-POINTS MODEL; RATIONAL APPROXIMATION; FDTD METHOD; DISPERSIVE MEDIA; CONSTANTS; METALS; GOLD; FORMULATIONS; SIMULATION},
+  Owner                    = {913},
+  Publisher                = {Ieee-inst Electrical Electronics Engineers Inc},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Michalski2016,
+  Title                    = {The Sommerfeld half-space problem revisited: from radio frequencies and Zenneck waves to visible light and Fano modes},
+  Author                   = {Michalski, K. A. and Mosig, J. R.},
+  Journal                  = {Journal of Electromagnetic Waves and Applications},
+  Year                     = {2016},
+
+  Month                    = jan,
+  Number                   = {1},
+  Pages                    = {1--42},
+  Volume                   = {30},
+
+  EI                       = {1569-3937},
+  SN                       = {0920-5071},
+  TC                       = {15},
+  UT                       = {WOS:000368546700001},
+  Z8                       = {0},
+  Z9                       = {15},
+  ZB                       = {0},
+  ZR                       = {0},
+  ZS                       = {0},
+  Doi                      = {10.1080/09205071.2015.1093964},
+  File                     = {Michalski2016.pdf:Michalski2016.pdf:PDF},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Michalski2015,
+  Title                    = {The Sommerfeld Halfspace Problem Redux: Alternative Field Representations, Role of Zenneck and Surface Plasmon Waves},
+  Author                   = {K. A. Michalski and J. R. Mosig},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2015},
+
+  Month                    = {Dec},
+  Number                   = {12},
+  Pages                    = {5777-5790},
+  Volume                   = {63},
+  Doi                      = {10.1109/TAP.2015.2489680},
+  ISSN                     = {0018-926X},
+  Keywords                 = {dipole antennas;Green's function methods;plasmons;Sommerfeld halfspace problem;vertical Hertzian dipole radiation;Green function procedure;closed-form asymptotic expression;surface plasmon;THz frequencies;Surface waves;Plasmons;Media;Green's function methods;Optical surface waves;Eigenvalues and eigenfunctions;Antennas;Green function;layered medium;Sommerfeld integral;Zenneck wave;surface plasmon;Green function;layered medium;Sommerfeld integral;surface plasmon;Zenneck wave},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Michalski2018,
+  Title                    = {Numerically Stable and Reliable Computation of Electromagnetic Modes in Multilayered Waveguides Using the Cauchy Integration Method With Automatic Differentiation},
+  Author                   = {K. A. Michalski and M. M. Mustafa},
+  Journal                  = {IEEE Transactions on Microwave Theory and Techniques},
+  Year                     = {2018},
+
+  Month                    = {Sep.},
+  Number                   = {9},
+  Pages                    = {3981-3992},
+  Volume                   = {66},
+  Abstract                 = {A robust and efficient method is presented for the computation of the electromagnetic modes supported by planar multilayer waveguides that may comprise lossy, active, plasmonic, and uniaxial media, including graphene sheets. Pole-free and numerically stable dispersion functions (DFs) are developed for various shielding configurations using the S-matrix formulation. The modal propagation constants are computed by the Cauchy integration method on the four-sheeted Riemann surface, using the derivative of the DF for greater reliability. Since analytical derivatives of the S-parameters are difficult to obtain, automatic differentiation is employed, implemented by operator overloading in modern Fortran. The method is validated using various benchmark problems found in the literature.},
+  Doi                      = {10.1109/TMTT.2018.2842745},
+  File                     = {Michalski2018.pdf:Michalski2018.pdf:PDF},
+  ISSN                     = {0018-9480},
+  Keywords                 = {absorbing media;differentiation;FORTRAN;graphene;integration;light propagation;numerical stability;optical dispersion;optical multilayers;optical planar waveguides;optical waveguide theory;plasmonics;reliable computation;electromagnetic modes;Cauchy integration method;automatic differentiation;robust method;planar multilayer waveguides;lossy media;active media;uniaxial media;graphene sheets;numerically stable dispersion functions;shielding configurations;modal propagation constants;plasmonic media;numerically stable computation;pole-free dispersion functions;S-matrix formulation;four-sheeted Riemann surface;S-parameters;Fortran;C;Electromagnetic waveguides;Transmission line matrix methods;Reliability;Electromagnetics;Propagation constant;Media;Electromagnetic scattering;Automatic differentiation (AD);Cauchy integration method (CIM);electromagnetic mode;planar waveguide},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Mohadesi2017,
+  Title                    = {Investigation of leaky and bound modes of graphene surface plasmons},
+  Author                   = {Mohadesi, V. and Siahpoush, V. and Asgari, A.},
+  Journal                  = {Journal of Applied Physics},
+  Year                     = {2017},
+
+  Month                    = {{7 Oct.}},
+  Pages                    = {{133113 (7 pp.)}},
+  Volume                   = {{122}},
+  Abstract                 = {{In this paper, the dispersion equation for TM polarized surface plasmon
+ modes in the graphene layer embedded in a layered structure has been
+ derived and numerically solved in THz frequencies (0.5-10 meV). Our
+ model results show that this configuration, depending on the frequency
+ region, can support both bound and leaky surface plasmons.
+ Investigation of the supporting frequency region, electromagnetic field
+ distribution, and propagation length of these two modes has been
+ studied. Comparison of these modes with bound modes propagated in a
+ graphene layer surrounded by two semi-infinite media shows that the
+ propagation characteristics are strongly affected by the coupling
+ effects of a high refractive index medium in its neighbor. The leakage
+ of the power into this medium results in distinct decreasing of the
+ propagation length in special frequencies which depend on the
+ geometrical parameters. Additionally, the radiation efficiency depends
+ on the frequency and it can be modified by the structure parameters.
+ This radiation can be important in designing the plasmonic devices such
+ as plasmonic antennas and may be applicable for light detection of
+ surface plasmon polaritons.}},
+  Address                  = {{USA}},
+  Affiliation              = {{Mohadesi, V.; Siahpoush, V.; Asgari, A.; Res. Inst. for Appl. Phys. \&
+ Astron., Univ. of Tabriz, Tabriz, Iran..}},
+  Da                       = {{2019-01-19}},
+  Descriptors              = {{Theoretical or Mathematical/ bound states; graphene; refractive index; surface plasmons/ surface plasmon polaritons; light detection; plasmonic antennas;
+ plasmonic devices; geometrical property; refractive index; semiinfinite
+ media; propagation length; electromagnetic field distribution; THz
+ frequencies; layered structure; graphene layer; polarized surface
+ plasmon modes; dispersion equation; graphene surface plasmons; bound
+ modes; leaky modes/ A7320M Collective excitations (surface states); A7820D Optical
+ constants and parameters (condensed matter); A7865V Optical properties
+ of graphene and graphene related materials (thin films, low-dimensional
+ and nanoscale structures)}},
+  Doi                      = {https://doi.org/10.1063/1.5006061},
+  Identifying-codes        = {{[0021-8979/2017/122(13)/133113/7/\$30.00],[10.1063/1.5006061]}},
+  ISSN                     = {{0021-8979}},
+  Issue                    = {{13}},
+  Language                 = {{English}},
+  Number-of-references     = {{52}},
+  Orcid-numbers            = {{Asgari, Asgari/0000-0002-1719-4206
+ Siahpoush, Vahid/0000-0003-2721-6605}},
+  Owner                    = {913},
+  Publication-type         = {{J}},
+  Publisher                = {{AIP - American Institute of Physics}},
+  Research-areas           = {{Engineering; Physics; Spectroscopy (provided by Clarivate Analytics)}},
+  Timestamp                = {2019.01.19},
+  Type                     = {{Journal Paper}},
+  Unique-id                = {{INSPEC:17213502}},
+  Usage-count-last-180-days = {{0}},
+  Usage-count-since-2013   = {{0}}
+}
+
+@Article{Pan2015,
+  Title                    = {An Efficient Method to Extract Surface-Wave Poles of Green's Functions Near Branch Cut in Lossy Layered Media},
+  Author                   = {S. Pan and J. Fan},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2015},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {439-442},
+  Volume                   = {63},
+  Abstract                 = {Calculating the Green's functions in lossy layered media using the discrete complex image method (DCIM) is challenging, due to the difficulties in extracting the surface-wave poles that are very close to a branch cut. An efficient algorithm based on the contour method is proposed in this communication to locate these poles and calculate the residues. The proposed method is robust for both the lossless and lossy media. With the proposed approach, it is shown in numerical examples that some poles, very close to a branch cut, are successfully extracted in lossy media. The accurate calculation of the Green's functions in lossy layered media enables the accurate and efficient modeling of complex structures in lossy semiconductor substrates and new 3D IC structures including through-silicon vias (TSVs).},
+  Doi                      = {10.1109/TAP.2014.2367545},
+  File                     = {Pan2015.pdf:Pan2015.pdf:PDF},
+  ISSN                     = {0018-926X},
+  Keywords                 = {absorbing media;Green's function methods;surface-wave poles;Green functions near branch cut;lossy layered media;discrete complex image method;contour method;lossy media;lossless media;3D IC structures;through-silicon vias;lossy semiconductor substrates;Nonhomogeneous media;Green's function methods;Spectral analysis;Surface waves;Dielectric losses;Algorithm design and analysis;Discrete complex image method (DCIM);lossy layered media;pole extraction;Sommerfeld integral;spectral-domain Green's functions;surface-wave poles},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Polimeridis2007,
+  Title                    = {An Efficient Pole Extraction Technique for the Computation of Green's Functions in Stratified Media Using a Sine Transformation},
+  Author                   = {A. G. Polimeridis and T. V. Yioultsis and T. D. Tsiboukis},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2007},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {227-229},
+  Volume                   = {55},
+  Doi                      = {10.1109/TAP.2006.886574},
+  ISSN                     = {0018-926X},
+  Keywords                 = {Green's function methods;inhomogeneous media;surface electromagnetic waves;surface wave poles extraction technique;Green's functions computation;stratified media;sine transformation;multilayered spectral-domain;numerical contour integration technique;Green's function methods;Nonhomogeneous media;Surface waves;Surface fitting;Printed circuits;Microstrip antennas;Integrated circuit interconnections;Patch antennas;Integral equations;Moment methods;Closed-form Green's functions;discrete complex image method (DCIM);pole extraction;sine transformation;surface wave poles},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Sato2015,
+  Title                    = {Extraction of all propagation constants in a specified region from the
+ transcendental equation of a dispersion relation using the
+ Sakurai-Sugiura projection method},
+  Author                   = {Sato, Shingo and Shimada, Takao and Hasegawa, Koji},
+  Journal                  = {JOURNAL OF THE OPTICAL SOCIETY OF AMERICA A-OPTICS IMAGE SCIENCE AND
+ VISION},
+  Year                     = {2015},
+
+  Month                    = {{JUL 1}},
+  Number                   = {{7}},
+  Pages                    = {{1216-1221}},
+  Volume                   = {{32}},
+  Abstract                 = {{A transcendental equation occurs when we compute the dispersion
+ relations of an electromagnetic waveguide, such as a planar multilayer
+ waveguide. Without an initial guess, the Sakurai-Sugiura projection
+ method (SSM) can obtain solutions to the transcendental equation in a
+ region bounded by a contour integral path in the complex plane. In this
+ paper, a criterion employing the condition number of eigenvalues as a
+ simple index to distinguish physical solutions from spurious ones in the
+ SSM is presented, and a transcendental equation of a multilayer
+ waveguide obtained by the transfer matrix method is solved by the SSM.
+ Numerical results show the usefulness of the index and good agreement
+ with the results of the argument principle method and Newton's method.
+ (C) 2015 Optical Society of America}},
+  Address                  = {{2010 MASSACHUSETTS AVE NW, WASHINGTON, DC 20036 USA}},
+  Affiliation              = {{Sato, S (Reprint Author), Muroran Inst Technol, Grad Sch Engn, Div Informat \& Elect Engn, 27-1 Mizumoto Cho, Muroran, Hokkaido 0508585, Japan.
+ Sato, Shingo; Hasegawa, Koji, Muroran Inst Technol, Grad Sch Engn, Div Informat \& Elect Engn, Muroran, Hokkaido 0508585, Japan.
+ Shimada, Takao, Tsuyama Natl Coll Technol, Dept Elect \& Elect Engn, Tsuyama 7088509, Japan.}},
+  Author-email             = {{satoshingo@mmm.muroran-it.ac.jp}},
+  Da                       = {{2019-01-19}},
+  Doc-delivery-number      = {{CN9SO}},
+  Doi                      = {{10.1364/JOSAA.32.001216}},
+  Eissn                    = {{1520-8532}},
+  ISSN                     = {{1084-7529}},
+  Journal-iso              = {{J. Opt. Soc. Am. A-Opt. Image Sci. Vis.}},
+  Keywords-plus            = {{MULTILAYER WAVE-GUIDES; NUMERICAL-METHOD; WAVEGUIDES}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{13}},
+  Owner                    = {913},
+  Publisher                = {{OPTICAL SOC AMER}},
+  Research-areas           = {{Optics}},
+  Times-cited              = {{3}},
+  Timestamp                = {2019.01.19},
+  Type                     = {{Article}},
+  Unique-id                = {{ISI:000358789500001}},
+  Usage-count-last-180-days = {{1}},
+  Usage-count-since-2013   = {{3}},
+  Web-of-science-categories = {{Optics}}
+}
+
+@Article{Semwal2014,
+  Title                    = {Derivative free method for computing modes of multilayer planar
+ waveguide},
+  Author                   = {Semwal, Girish and Rastogi, Vipul},
+  Journal                  = {OPTICAL AND QUANTUM ELECTRONICS},
+  Year                     = {2014},
+
+  Month                    = {{MAR}},
+  Note                     = {{21st International Workshop on Optical Wave and Waveguide Theory and
+ Numerical Modelling (OWTNM), Enschede, NETHERLANDS, APR 19-20, 2013}},
+  Number                   = {{3, SI}},
+  Pages                    = {{423-438}},
+  Volume                   = {{46}},
+  Abstract                 = {{A technique to solve generalized dispersion equation of multilayer
+ planar waveguide has been demonstrated to obtain all the expected guided
+ modes. The solution is based on the derivative free method for computing
+ the zeros of an analytical function in complex plane. The derivative
+ free method extracts the roots which are very close to actual zeros of
+ the function. Roots are further refined using the robust iteration
+ method to achieve the desired accuracy. Application of the proposed
+ method has been verified by solving the modes of a variety of structures
+ including lossless structure, leaky structure, quantum well waveguide,
+ active waveguide, ARROW waveguide and metal clad waveguide. The method
+ is efficient and computes all modes of planar waveguide with high
+ accuracy.}},
+  Address                  = {{VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS}},
+  Affiliation              = {{Semwal, G (Reprint Author), Instrument Res \& Dev Estab, Dehra Dun 248008, India.
+ Semwal, Girish, Instrument Res \& Dev Estab, Dehra Dun 248008, India.
+ Rastogi, Vipul, Indian Inst Technol, Dept Phys, Roorkee 247667, Uttar Pradesh, India.}},
+  Author-email             = {{girishsemwal@rediffmail.com}},
+  Da                       = {{2019-01-19}},
+  Doc-delivery-number      = {{AA3OD}},
+  Doi                      = {{10.1007/s11082-013-9838-2}},
+  Eissn                    = {{1572-817X}},
+  ISSN                     = {{0306-8919}},
+  Journal-iso              = {{Opt. Quantum Electron.}},
+  Keywords                 = {{Planar waveguide; Argument principle method; Derivative free method;
+ Modes of waveguide}},
+  Keywords-plus            = {{NUMERICAL-ANALYSIS; ANALYTIC-FUNCTION; MATRIX APPROACH; FREE ALGORITHM;
+ ZEROS; EFFICIENT}},
+  Language                 = {{English}},
+  Number-of-cited-references = {{18}},
+  Owner                    = {913},
+  Publisher                = {{SPRINGER}},
+  Research-areas           = {{Engineering; Optics}},
+  Researcherid-numbers     = {{Rastogi, Vipul/M-5225-2014}},
+  Times-cited              = {{4}},
+  Timestamp                = {2019.01.19},
+  Type                     = {{Article; Proceedings Paper}},
+  Unique-id                = {{ISI:000331001100005}},
+  Usage-count-last-180-days = {{1}},
+  Usage-count-since-2013   = {{8}},
+  Web-of-science-categories = {{Engineering, Electrical \& Electronic; Optics}}
+}
+
+@Article{Wang2010,
+  Title                    = {A New Method for Locating the Poles of Green's Functions in a Lossless or Lossy Multilayered Medium},
+  Author                   = {D. Wang and E. K. Yung and R. Chen and J. Bao},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2010},
+
+  Month                    = {July},
+  Number                   = {7},
+  Pages                    = {2295-2300},
+  Volume                   = {58},
+  Abstract                 = {A new method is presented to locate the poles of the Green's functions for a general multilayered medium, whether lossy or lossless. The problem associated with the pole extraction is reduced to solve the contour integrals in the complex plane that are represented in terms of the spectral-domain transmission coefficients. With the help of Cauchy's theorem, the proposed method can accurately and rapidly find all surface wave poles with a few contour integrals. The numerical examples are performed to show the efficiency of the method.},
+  Doi                      = {10.1109/TAP.2010.2046830},
+  ISSN                     = {0018-926X},
+  Keywords                 = {absorbing media;Green's function methods;integral equations;transmission line theory;Green's functions;lossy multilayered medium;spectral-domain transmission coefficients;Cauchy theorem;contour integrals;surface wave pole extraction;Green's function methods;Surface waves;Contracts;Integral equations;Millimeter wave circuits;Microwave antennas;Moment methods;High performance computing;Computer integrated manufacturing;Newton method;General multilayered media;Green's functions;surface wave poles},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
+@Article{Ye2012,
+  Title                    = {A Robust Method for the Computation of Green's Functions in Cylindrically Stratified Media},
+  Author                   = {L. Ye and F. Zhao and K. Xiao and S. Chai},
+  Journal                  = {IEEE Transactions on Antennas and Propagation},
+  Year                     = {2012},
+
+  Month                    = {June},
+  Number                   = {6},
+  Pages                    = {3046-3051},
+  Volume                   = {60},
+
+  __markedentry            = {[913:]},
+  Abstract                 = {Closed-form Green's functions for cylindrically stratified media are derived in terms of spherical waves and surface-wave contributions. The methodology is based on a two-level approximation of the spectral-domain Green's functions. In the first step, the large argument behavior of the zeroth-order Hankel functions is used for the extraction of the quasistatic images from the spectral-domain Green's functions with the use of the Sommerfeld identity. In the second step, the remaining part of the Green's functions are approximated in terms of pole-residue expressions via the rational function fitting method. This robust, efficient, and fully numerical approach does not call for an analytical cumbersome extraction of the surface wave poles, prior to the spectrum fitting. Moreover, it can be applied in both the near- and far-field. Numerical results for the Green's functions of one-layer and two-layer structures are presented to verify the accuracy and efficiency of this approach.},
+  Doi                      = {10.1109/TAP.2012.2194650},
+  ISSN                     = {0018-926X},
+  Keywords                 = {approximation theory;electric fields;function approximation;Green's function methods;inhomogeneous media;rational functions;spectral-domain analysis;closed-form Green's function computation;cylindrically stratified media;spherical wave contribution;surface-wave contribution;spectral-domain Green's function;two-level approximation;zeroth-order Hankel function;quasistatic image extraction;Sommerfeld identity;pole-residue expression;rational function fitting method;numerical approach;analytical cumbersome extraction;surface wave pole;spectrum fitting;two-layer structure;one-layer structure;electric field;Green's function methods;Surface waves;Approximation methods;Spectral analysis;Media;Accuracy;Electronics packaging;Closed-form Green's functions;cylindrically stratified media;discrete complex images method (DCIM);rational function fitting method (RFFM)},
+  Owner                    = {913},
+  Timestamp                = {2019.01.19}
+}
+
